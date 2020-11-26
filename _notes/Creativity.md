@@ -4,7 +4,7 @@ tags: problem-solving
 
 ---
 
-Creativity: the capacity[^1] to solve problems.
+*Creativity*: the capacity[^1] to solve problems.
 
 Not to be confused with originality, which means creating something new, but not necessarily functional. Creativity needs guidelines, otherwise, it would be an artistic process.
 
