@@ -1,7 +1,7 @@
 ---
-title: Test page to see how the raw markdown is rendered
-tags: markdown 
-season: summer
+title: Political Science
+tags: politic
+season: winter
 ---
 
 # Political Science
