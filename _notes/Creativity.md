@@ -1,5 +1,7 @@
 ---
 title: Creativity
+tags: problem-solving
+season: winter
 ---
 
 # Creativity
